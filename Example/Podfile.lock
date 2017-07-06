@@ -1,0 +1,16 @@
+PODS:
+  - TPXmppManager (0.1.0)
+
+DEPENDENCIES:
+  - TPXmppManager (from `../`)
+
+EXTERNAL SOURCES:
+  TPXmppManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TPXmppManager: 657b08d6699e6179507346509bbe1169709f2d4f
+
+PODFILE CHECKSUM: 94a71c835640f752db2f535611ebce2ca92bc663
+
+COCOAPODS: 1.2.1

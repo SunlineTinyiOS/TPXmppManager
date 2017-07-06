@@ -1,0 +1,6 @@
+framework module TPXmppManager {
+  umbrella header "TPXmppManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

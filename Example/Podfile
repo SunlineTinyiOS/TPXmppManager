@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'TPXmppManager_Example' do
+  pod 'TPXmppManager', :path => '../'
+  
+
+  target 'TPXmppManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
